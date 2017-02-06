@@ -353,6 +353,6 @@ if __name__ == "__main__":
 ```
 
 #### References:
-1. [ctf101 system 2016 by nnamon](https://github.com/nnamon/ctf101-systems-2016/blob/master/lessonplan.md)
+1. [ctf101 system 2016 by nnamon](https://github.com/nnamon/ctf101-systems-2016/blob/master/lessonplan.md#2-offensive-python-101)
 2. [Linux exploitation course by nnamon](https://github.com/nnamon/linux-exploitation-course/blob/master/lessons/3_intro_to_tools/lessonplan.md#pwntools)
 3. [`pwnlib.tubes` - Talking to the World!](http://docs.pwntools.com/en/stable/tubes.html)
